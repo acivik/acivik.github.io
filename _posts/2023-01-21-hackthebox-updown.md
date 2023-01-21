@@ -56,7 +56,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 10.58 seconds
 root@acivik:~/ctfs/UpDown#
 ```
-[OpenSSH](https://packages.ubuntu.com/search?keywords=openssh-server) versiyonuna göre muhtemelen üzerinde Ubuntu Focal çalışıyor.
+[OpenSSH](https://packages.ubuntu.com/search?keywords=openssh-server) versiyonuna göre muhtemelen üzerinde Ubuntu Focal 20.04 çalışıyor.
 
 ## <span style="color:#0096FF">VirtualHost Scan</span>
 
