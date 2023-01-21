@@ -9,7 +9,7 @@ tags: [hackthebox, ctf, hacking, writeup, updown, walktrough, medium, linux]
 ---
 
 | Name | UpDown | ![https://www.hackthebox.com/storage/avatars/d7a56d5f25100d0a918b90de80122f82_thumb.png](https://www.hackthebox.com/storage/avatars/d7a56d5f25100d0a918b90de80122f82_thumb.png) |
-| :--- | :---: | --- |
+| :--- | :---: | :---: |
 | Difficulty | Medium | ![https://i.ibb.co/V3pM1r3/image.png](https://i.ibb.co/V3pM1r3/image.png) |
 | OS | Linux | ![https://img.icons8.com/color/2x/linux--v2.png](https://img.icons8.com/color/2x/linux--v2.png) |
 | Graph | ![https://i.ibb.co/5hp4dbw/image.png](https://i.ibb.co/5hp4dbw/image.png) |
