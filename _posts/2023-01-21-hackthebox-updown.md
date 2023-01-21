@@ -11,7 +11,7 @@ tags: [hackthebox, ctf, hacking, writeup, updown, walktrough, medium, linux]
 | Name | UpDown | ![https://www.hackthebox.com/storage/avatars/d7a56d5f25100d0a918b90de80122f82_thumb.png](https://www.hackthebox.com/storage/avatars/d7a56d5f25100d0a918b90de80122f82_thumb.png) |
 | :--- | :---: | --- |
 | Difficulty | Medium | ![https://i.ibb.co/V3pM1r3/image.png](https://i.ibb.co/V3pM1r3/image.png) |
-| OS | Linux |  ![https://i.ibb.co/fnLyGtj/image.png](https://i.ibb.co/fnLyGtj/image.png)|
+| OS | Linux | ![https://img.icons8.com/color/2x/linux--v2.png](https://img.icons8.com/color/2x/linux--v2.png) |
 | Graph | ![https://i.ibb.co/5hp4dbw/image.png](https://i.ibb.co/5hp4dbw/image.png) |
 | ![https://i.ibb.co/6r2KsG8/image.png](https://i.ibb.co/6r2KsG8/image.png) | 51 mins, 34 seconds | ![https://www.hackthebox.com/badge/image/114435](https://www.hackthebox.com/badge/image/114435) |
 | ![https://i.ibb.co/xXMxxWg/image.png](https://i.ibb.co/xXMxxWg/image.png) | 53 mins, 25 seconds | ![https://www.hackthebox.com/badge/image/114435](https://www.hackthebox.com/badge/image/114435) |
