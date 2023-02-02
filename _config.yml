@@ -14,20 +14,20 @@ lang: tr
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Istanbul
+timezone: Asia/Istanbul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Acivik                   # the main title
+title: Acivik                          # the main title
 
-tagline: " 18'lik bir siber cahilden notlar. "   # it will display as the sub-title
+tagline: 18'lik Bir Siber Cahilden Notlar.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  CTF, writeup, walktrough, Siber Güvenlik, Hacking, Cyber Security, Penetration Test, Pentest, Linux, Web Pentest, Vulnhub, Hackthebox, siber güvenlik notlarım. vs. vs...
+  CTF, writeup, walktrough, Siber Güvenlik, Hacking, Cyber Security, Penetration Test, Pentest, Linux, Web Pentest, Vulnhub, Hackthebox, siber güvenlik notlarım.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://acivik.github.io'
 
 github:
   username: acivik             # change to your github username
@@ -71,17 +71,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://acivik.github.io'
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/images/avatar.jpg'
+avatar: /images/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -159,7 +159,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path:
+      path: assets/img/favicons
     values:
       swcache: true
   - scope:
