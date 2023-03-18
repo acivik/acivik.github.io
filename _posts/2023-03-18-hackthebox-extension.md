@@ -2,7 +2,7 @@
 
 title: HTB - Extension
 author: Acivik
-date: 2023-03-18 17:00:00 +0300 
+date: 2023-03-18 18:00:00 +0300 
 categories: [CTF, Hack The Box]
 tags: [hackthebox, ctf, hacking, writeup, extension, walktrough, hard, linux]
 
