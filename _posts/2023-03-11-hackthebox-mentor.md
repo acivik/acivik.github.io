@@ -1,6 +1,6 @@
 ---
 
-title: HTB - Mentor
+title: 🟠 HTB - Mentor
 author: Acivik
 date: 2023-03-11 18:00:00 +0300 
 categories: [CTF, Hack The Box]
