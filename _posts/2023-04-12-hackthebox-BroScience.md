@@ -18,7 +18,7 @@ tags: [hackthebox, ctf, hacking, writeup, BroScience, walktrough, medium, linux]
 
 `nmap` ssh(22) ve http (80,443) olmak üzere 3 adet açık port bildirir.
 
-```clojure
+```bash
 root@acivik:~/ctfs/BroScience-10.129.93.109# nmap 10.129.93.109 --min-rate 1000 -p-
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-01-08 05:05 EST
 Nmap scan report for 10.129.93.109
@@ -490,7 +490,7 @@ bill@broscience:~$
 
 Buradan anlaşılıyor ki root kullanıcısı `/opt/renew_cert.sh /home/bill/Certs/broscience.crt` komutunu düzenli olarak çalıştırır.
 
-Script ile olarak parametreyi kontrol eder.
+Script ilk olarak parametreyi kontrol eder.
 
 ```bash
 #!/bin/bash
