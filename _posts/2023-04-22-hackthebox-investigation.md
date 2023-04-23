@@ -1,10 +1,10 @@
 ---
 
-title: 🟠 HTB - BroScience
+title: 🟠 HTB - Investigation
 author: Acivik
 date: 2023-04-12 18:00:00 +0300 
 categories: [CTF, Hack The Box]
-tags: [hackthebox, ctf, hacking, writeup, BroScience, walktrough, medium, linux]
+tags: [hackthebox, ctf, hacking, writeup, Investigation, walktrough, medium, linux]
 
 ---
 
