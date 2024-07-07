@@ -8,6 +8,10 @@ tags: [hackthebox, ctf, hacking, writeup, perfection, walktrough, easy, linux]
 
 ---
 
+![https://i.ibb.co/vLLfnK3/Perfection.png](https://i.ibb.co/vLLfnK3/Perfection.png)
+
+---
+
 # <span style="color:#AA0E1C"><b># Reconnaissance</b></span>
 
 ## <span style="color:#0096FF">Nmap</span>
