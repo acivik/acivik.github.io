@@ -182,3 +182,10 @@ root@perfection:/var/mail#
 ```
 
 Sudo ile tüm komutları çalıştırmamıza izin veriliyor. Bu durumda root olmak için önümde hiç bir engel yok. Gayet kolaydı 🙂
+
+---
+
+# Çözüm Videosu - Youtube
+[![HackTheBox - Perfection Çözümü](https://img.youtube.com/vi/cnmP24QiGLc/0.jpg)](https://www.youtube.com/watch?v=cnmP24QiGLc)
+
+---
