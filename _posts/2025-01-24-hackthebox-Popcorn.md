@@ -45,12 +45,9 @@ root@kali:~/HTB/popcorn#
 
 # <span style="color:#AA0E1C"><b># Open Ports & To-Do</b></span>
 
-| 22/tcp SSH | OpenSSH 5.1p1-6ubuntu2
- | Need Credentials |
+| 22/tcp SSH | OpenSSH 5.1p1-6ubuntu2| Need Credentials |
 | --- | --- | --- |
-| 80/tcp HTTP | Apache/2.2.12 | [+ SourceCode]
-[+ Discover Content]
-[+ Check Web Vuln] |
+| 80/tcp HTTP | Apache/2.2.12 | Web Enumerate |
 
 # <span style="color:#AA0E1C"><b># Enumeration Notes</b></span>
 
