@@ -14,19 +14,19 @@ tags: [hackthebox, ctf, hacking, writeup, Friendzone, walkthrough, easy, linux]
 
 # <span style="color:#AA0E1C"><b># System Info & Credentials</b></span>
 
-| **IP:** | **10.10.10.123** |
+| IP: | 10.10.10.123 |
 | --- | --- |
-| **OS:** | **Ubuntu 18.04** |
-| **Hosts:** | **friendzone.red
+| OS: | Ubuntu 18.04 |
+| Hosts: | friendzone.red
 administrator1.friendzone.red
 hr.friendzone.red
-uploads.friendzone.red** |
-| **Credentials:** | admin:WORKWORKHhallelujah@#
+uploads.friendzone.red |
+| Credentials: | admin:WORKWORKHhallelujah@#
 
 db_user/system_user=friend
 db_pass/system_userpw=Agpyu12!0.213$ |
-| **Flags:** | **(user.txt) : a4b772766271fc2f9a0c67268dffa063
-(root.txt) : 89388f7816b6674f0fe4b6f870d80b7f**  |
+| Flags: | (user.txt) : a4b772766271fc2f9a0c67268dffa063
+(root.txt) : 89388f7816b6674f0fe4b6f870d80b7f  |
 
 # <span style="color:#AA0E1C"><b># Nmap Result</b></span>
 
