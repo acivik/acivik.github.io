@@ -146,7 +146,8 @@ dumped -> Admin : d5bfedcee289e5e05b86daad8ee3e2e2 : admin : admin@yourdomain.co
 
 **Request Body:**
 
-Changed the content type header from `application/x-php` to `image/jpeg`
+Changed the content type header
+`application/x-php` to `image/jpeg`
 
 ```bash
 -----------------------------239990188727439809613051752681
