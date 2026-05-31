@@ -13,7 +13,7 @@ Bu yazıda TryHackMe platformundaki VulnNet: Active makinesinin çözümünü el
 Makine, Active Directory ortamında gerçekçi bir saldırı zinciri sunuyor. Başlangıçta şifresiz erişime açık bir Redis servisi üzerinden hem kullanıcı adını hem de NTLM hash'ini elde ediyoruz. Yakalanan hash'i `hashcat` ile kırarak geçerli bir credential elde ettikten sonra SMB üzerinden sistemi daha ayrıntılı inceliyoruz. Yazma yetkimizin bulunduğu bir PowerShell scripti aracılığıyla reverse shell alıyoruz. Yetki yükseltme aşamasında ise iki farklı yol izliyoruz: `SeImpersonatePrivilege` üzerinden `GodPotato` ile SYSTEM token'ı ele geçirme ve BloodHound analizi sonucunda tespit ettiğimiz `GPO` üzerindeki `GenericWrite` yetkisini `SharpGPOAbuse` ile kötüye kullanarak domain administrator yetkisi elde etme olaylarını göreceğiz.
 
 ---
-# <span style="color:#AA0E1C"><b># Summary</b></span>Enumeration
+# <span style="color:#AA0E1C"><b># Enumeration</b></span>
 
 ## <span style="color:#0096FF">Nmap</span>
 
