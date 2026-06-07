@@ -277,7 +277,7 @@ $krb5tgs$23$*bitbucket$LAB.ENTERPRISE.THM$LAB.ENTERPRISE.THM/bitbucket*$69772a04
 ```
 
 Başta elde ettiğim credential işe yaramasa da sonrasın bulduğum nik hesabı çalışıyor.
-Burada kullanıcı adı ve parola bilgisini kullanarak AS-REP Roasting kontrol ediyorum.
+Burada kullanıcı adı ve parola bilgisini kullanarak Kerberoasting kontrol ediyorum.
 
 `bitbucket:littleredbucket`
 
