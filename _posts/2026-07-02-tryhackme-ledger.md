@@ -1,8 +1,7 @@
 ---
 
 title: THM - Ledger
-image: 
-  url: https://tryhackme-images.s3.amazonaws.com/room-icons/78aa83616ded14aad892e05c15cc9eb2.png
+image: https://tryhackme-images.s3.amazonaws.com/room-icons/78aa83616ded14aad892e05c15cc9eb2.png
 author: Acivik
 date: 2026-07-02 08:00:00 +0300 
 categories: [CTF, TryHackMe]
