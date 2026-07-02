@@ -125,12 +125,17 @@ bloodhound-python -d thm.local -u SUSANNA_MCKNIGHT -p 'CHANGEME2023!' \
   -ns 10.113.162.161 -c All
 ```
 
+![https://i.ibb.co/xSGD4PgM/image-36.png](https://i.ibb.co/xSGD4PgM/image-36.png)
+
 **Bulgular:**
 - SUSANNA_MCKNIGHT: RMU ve RDU gruplarına üye (RDP erişimi var)
 - IVY_WILLIS: Bu gruplara üye değil (RDP erişimi yok)
+
 ## RDP Erişimi
 
 SUSANNA_MCKNIGHT hesabıyla RDP üzerinden sisteme bağlandık.
+
+![https://i.ibb.co/mWRpfn8/image-37.png](https://i.ibb.co/mWRpfn8/image-37.png)
 
 ---
 
