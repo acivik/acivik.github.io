@@ -1,9 +1,11 @@
 ---
+
 title: THM - Ledger
 author: Acivik
 date: 2026-07-02 08:00:00 +0300
 categories: [CTF, TryHackMe]
 tags: [tryhackme, ad, active-directory, writeup, ctf, walkthrough, windows, adcs, esc1]
+
 ---
 
 # Enumeration
